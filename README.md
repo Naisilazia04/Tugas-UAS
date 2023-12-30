@@ -115,7 +115,11 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-web-tool-ai-generative-
 
 ## 35.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mendaftar-dan-mencoba-eksplorasi-huggingface/
+
 ## 36.Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mendaftar-dan-mencoba-eksplorasi-kaggle/
 
 ## 37.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 

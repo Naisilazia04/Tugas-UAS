@@ -123,6 +123,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mendaftar-dan-mencoba-eksploras
 
 ## 37.Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-protokol-komunikasi-iot/
+
 ## 38.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## 39.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐

@@ -15,9 +15,13 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mengktifkan-dan-mencoba-google-
 
 ### Windows CMD [v] ⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-console-sistem-operasi/
+
 Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 
 ### 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/linux-terminal-menggunakan-google-colab/
 
 ## 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
 

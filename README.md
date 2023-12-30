@@ -3,9 +3,13 @@
 
 ## 1. Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisasi-computational-thinking/
+
 ## 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
 ## 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mengktifkan-dan-mencoba-google-colab/
 
 ## 4. Mencoba Console Sistem Operasi 
 
@@ -16,6 +20,8 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ### 5.Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 ## 6. Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/membuat-algoritma-dalam-bentuk-flow-chart/
 
 Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
 
@@ -95,6 +101,8 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 31.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
+
 ## 32.Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 ## 33.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
@@ -113,17 +121,27 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 40.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/menjelaskan-jurnal-conference-artikel-grade-jurnal/
+
 ## 41.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
 
 ## 42.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/menonton-video-presentasi-tugas-akhir-informatika/
+
 ## 43.Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mengeksplorasi-seluruh-profesi-terkait-informatika-dan-profesi-yang-diminati/
+
 ## 44.Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-tools-untuk-belajar-bahasa-inggris-duolingo/
 
 ## 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-lowongan-pekerjaan-it/
 
 ## 47.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
@@ -133,9 +151,15 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 
 ## 50.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/
+
 ## 51.Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/membangun-profil-github-page/
+
 ## 52.Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mengikuti-workshop-event-course-terkait-it/
 
 ## 53.Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 

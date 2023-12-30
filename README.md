@@ -7,6 +7,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/menjelaskan-dan-menginternalisa
 
 ## 2.Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/menjelaskan-jenis-jenis-mesin-komputasi/
+
 ## 3.Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
 https://naisilaziaulhaq.wordpress.com/2023/12/30/mengktifkan-dan-mencoba-google-colab/
@@ -34,6 +36,8 @@ Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-v
 Referensi [1](https://scratch.mit.edu/)
 
 ## 8. Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-algoritma-bubble-sort-menggunakan-java/
 
 ## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 

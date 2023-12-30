@@ -41,6 +41,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-algoritma-bubble-sort-m
 
 ## 9. Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/31/mencoba-dan-mendemonstrasikan-penggunakan-ide/
+
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
 ## 11.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐

@@ -153,6 +153,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-lowongan-pekerjaan-i
 
 ## 47.Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-lowongan-freelancer-it/
+
 ## 48.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
 ## 49.Eksplorasi Top Github Project yang Diminati ⭐⭐ 

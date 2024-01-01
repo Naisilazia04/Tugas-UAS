@@ -145,6 +145,8 @@ https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-pembuatan-game-dan-simu
 
 ## 29.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-pemrosesan-konten-multimedia-image-audio-menggunakan-google-colab/
+
 ## 30.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
 ## 31.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
@@ -204,6 +206,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-lowongan-pekerjaan-i
 https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-lowongan-freelancer-it/
 
 ## 48.Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/02/eksplorasi-dan-pilih-topik-yang-diminati-di-roadmap-sh/
 
 ## 49.Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 

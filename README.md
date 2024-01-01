@@ -56,11 +56,15 @@ Referensi tambahan [1](https://db-engines.com/en/ranking)
 
 ## 13.Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-eksplorasi-dan-query-database-menggunakan-database-explorer-dbeaver-dsb/
+
 Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## 14.Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
+
 https://naisilaziaulhaq.wordpress.com/2023/12/31/mendemonstrasikan-dan-menjelaskan-penggunaan-web-browser-untuk-mengakses-halaman-website-html/
+
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
 - Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
 - Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
@@ -78,6 +82,8 @@ https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-pelacakan-informasi-ser
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## 17.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-pembuatan-halaman-web-menggunakan-html-css-dan-javascript/
 
 Referensi tutorial 
 - Isi konten halaman web : [HTML](https://www.w3schools.com/html/)

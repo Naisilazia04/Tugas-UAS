@@ -183,6 +183,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-tools-untuk-belajar-
 
 ## 45.Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/eksplorasi-tools-untuk-belajar-berbicara-bahasa-inggris-hellotalk/
+
 ## 46.Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 
 https://naisilaziaulhaq.wordpress.com/2023/12/30/eksplorasi-lowongan-pekerjaan-it/

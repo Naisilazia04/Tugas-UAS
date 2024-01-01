@@ -119,6 +119,9 @@ https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-http-request-dan-web-ap
 https://naisilaziaulhaq.wordpress.com/2024/01/01/mendemonstrasikan-penggunaan-developer-tools-pada-web-browser-firefox-chrome/
 
 ## 24.Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mengeksplorasi-dan-menjelaskan-layanan-cloud-service-yang-diminati-gcp-aws-azure/
+
 Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
 
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
@@ -129,9 +132,16 @@ https://naisilaziaulhaq.wordpress.com/2023/11/29/tips-dan-trik-cara-memasak-deng
 
 ## 26.Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mendemonstrasikan-akses-konten-multimedia-image-audio-video/
+
+
 ## 27.Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mendemonstrasikan-akses-konten-multimedia-image-audio-video/
+
 ## 28.Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-pembuatan-game-dan-simulasi-menggunakan-logo/
 
 ## 29.Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 

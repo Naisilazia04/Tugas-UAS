@@ -45,6 +45,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/31/mencoba-dan-mendemonstrasikan-p
 
 ## 10. Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mendaftar-mengeksplorasi-dan-mendemonstrasikan-penggunaan-hackerrank/
+
 ## 11.Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 https://github.com/Naisilazia04/charmingweb.git
@@ -113,6 +115,8 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## 25.Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2023/11/29/tips-dan-trik-cara-memasak-dengan-baik-menyajikan-hidangan-lezat-dan-sehat/
 
 ## 26.Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 

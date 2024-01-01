@@ -67,6 +67,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/31/mendemonstrasikan-dan-menjelask
 
 ## 15.Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/apa-itu-url/
+
 Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
 
 ## 16.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐

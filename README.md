@@ -73,6 +73,8 @@ Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.ht
 
 ## 16.Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-pelacakan-informasi-server-dari-alamat-domain/
+
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 ## 17.Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
@@ -83,6 +85,8 @@ Referensi tutorial
 - Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
 
 ## 18.Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-penerapan-teknik-search-engine-optimization-seo-pada-html/
 
 Referensi []
 

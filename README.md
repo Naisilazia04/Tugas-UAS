@@ -220,7 +220,7 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/membangun-profil-github-page/
 https://naisilaziaulhaq.wordpress.com/2023/12/30/mengikuti-workshop-event-course-terkait-it/
 
 ## 53.Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
+https://naisilaziaulhaq.wordpress.com/2024/01/01/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika/
 
 
 

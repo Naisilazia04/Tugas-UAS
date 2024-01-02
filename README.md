@@ -157,6 +157,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-web-tool-ai-generative-
 
 ## 32.Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-model-machine-learning-menggunakan-google-colab-tts-speechrecognition-dan-huggingface/
+
 ## 33.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
 https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-data-visualization-dengan-tools/

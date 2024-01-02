@@ -55,6 +55,8 @@ https://github.com/Naisilazia04/charmingweb.git
 
 ## 12.Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-instalasi-database-postgresql-mysql-dsb/
+
 Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
 Referensi tambahan [1](https://db-engines.com/en/ranking)
 

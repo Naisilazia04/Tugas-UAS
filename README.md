@@ -149,6 +149,8 @@ https://naisilaziaulhaq.wordpress.com/2024/01/01/mencoba-pemrosesan-konten-multi
 
 ## 30.Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-web-tool-ai-discriminative-image-classification/
+
 ## 31.Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
 
 https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-web-tool-ai-generative-text-to-image-text-to-text/
@@ -157,7 +159,11 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-web-tool-ai-generative-
 
 ## 33.Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-data-visualization-dengan-tools/
+
 ## 34.Mencoba Data Visualization Dengan Code [v] ⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-data-visualization-dengan-code/
 
 ## 35.Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 
@@ -180,6 +186,8 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-protokol-komunikasi-iot
 https://naisilaziaulhaq.wordpress.com/2023/12/30/menjelaskan-jurnal-conference-artikel-grade-jurnal/
 
 ## 41.Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/02/eksplorasi-artikel-jurnal-conference-di-repository-terekognisi-internasional-ieee-arxiv-science-direct-acm-dblp/
 
 ## 42.Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 

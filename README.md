@@ -229,6 +229,8 @@ https://naisilaziaulhaq.wordpress.com/2024/01/02/eksplorasi-dan-pilih-topik-yang
 
 ## 49.Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 
+https://naisilaziaulhaq.wordpress.com/2024/01/02/eksplorasi-top-github-project-yang-diminati/
+
 ## 50.Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 https://naisilaziaulhaq.wordpress.com/2023/12/30/membangun-profil-linkedin-dan-mengikuti-akun-akun-inspirasif-bertema-informatika/

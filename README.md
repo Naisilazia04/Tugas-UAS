@@ -185,7 +185,11 @@ https://naisilaziaulhaq.wordpress.com/2023/12/30/mencoba-protokol-komunikasi-iot
 
 ## 38.Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
+https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-memproses-file-csv-menggunakan-google-colab/
+
 ## 39.Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+
+https://naisilaziaulhaq.wordpress.com/2024/01/02/mencoba-memproses-file-big-data-orc-menggunakan-google-colab/
 
 ## 40.Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 
